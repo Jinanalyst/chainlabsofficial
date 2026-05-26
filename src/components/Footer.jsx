@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="relative z-10 border-t border-line py-10">
       <div className="container-x flex flex-col items-start justify-between gap-6 text-sm text-slate-500 sm:flex-row sm:items-center">
         <div className="flex items-center gap-3">
-          <Logo height={44} />
+          <Logo size={24} />
           <span>© {year}</span>
         </div>
         <nav className="flex flex-wrap gap-x-6 gap-y-2">
