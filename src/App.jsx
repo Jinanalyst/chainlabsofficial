@@ -4,6 +4,7 @@ import Hero from './components/Hero.jsx';
 import ProductSummary from './components/ProductSummary.jsx';
 import About from './components/About.jsx';
 import Ecosystem from './components/Ecosystem.jsx';
+import Loop from './components/Loop.jsx';
 import Products from './components/Products.jsx';
 import Why from './components/Why.jsx';
 import BusinessModel from './components/BusinessModel.jsx';
@@ -38,6 +39,7 @@ export default function App() {
         <ProductSummary />
         <About />
         <Ecosystem />
+        <Loop />
         <Products />
         <Why />
         <BusinessModel />
