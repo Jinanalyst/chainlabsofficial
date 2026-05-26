@@ -25,13 +25,13 @@ export default function About() {
         <div className="reveal max-w-3xl">
           <p className="eyebrow">About ChainLabs</p>
           <h2 className="mt-3 font-display text-3xl font-bold sm:text-5xl">
-            A platform studio for the future of digital work.
+            One integrated platform company. One business ecosystem.
           </h2>
           <p className="mt-5 text-slate-400 sm:text-lg">
-            ChainLabs is an AI-powered digital platform group. We build the
-            products that connect information, talent, work, payments, and
-            communities — and we operate them as one ecosystem so every
-            interaction adds to a single, shared value network.
+            ChainLabs is an integrated platform company that connects
+            information, work, relationships, and payments into one practical
+            business ecosystem — built so every interaction adds to a single,
+            shared value network.
           </p>
         </div>
 

@@ -8,7 +8,7 @@ export default function Hero() {
         <div className="reveal max-w-4xl">
           <span className="eyebrow inline-flex items-center gap-2 rounded-full border border-line-strong bg-brand-500/10 px-3 py-1.5">
             <Sparkles className="h-3.5 w-3.5 text-brand-300" />
-            An AI-powered platform studio
+            An integrated platform company
           </span>
 
           <h1 className="mt-7 font-display text-[44px] leading-[1.05] font-bold sm:text-6xl lg:text-7xl">
@@ -18,8 +18,9 @@ export default function Hero() {
           </h1>
 
           <p className="mt-6 max-w-2xl text-base text-slate-400 sm:text-lg">
-            ChainLabs builds AI-powered digital platforms that connect insights,
-            talent, payments, and communities into one connected ecosystem.
+            ChainLabs is an integrated platform company that connects
+            information, work, relationships, and payments into one practical
+            business ecosystem.
           </p>
 
           <div className="mt-8 flex flex-wrap gap-3">
