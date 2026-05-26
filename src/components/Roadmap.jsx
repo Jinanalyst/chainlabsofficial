@@ -8,20 +8,20 @@ const phases = [
   {
     phase: 'Phase 2',
     name: 'ChainWork',
-    desc: 'Open the digital work marketplace. Turn credibility into real, paid opportunities.',
-    status: 'next',
+    desc: 'Open the digital work marketplace at chainwork.chainbrief.kr — turning credibility into real, paid opportunities.',
+    status: 'live',
   },
   {
     phase: 'Phase 3',
     name: 'ChainPay',
-    desc: 'Ship the payment & settlement layer. Manage transactions, invoices, and platform fees natively.',
-    status: 'planned',
+    desc: 'Ship the payment & settlement layer at chainwork.chainbrief.kr/#/pay — managing transactions, invoices, and platform fees natively.',
+    status: 'live',
   },
   {
     phase: 'Phase 4',
     name: 'ChainMeet',
     desc: 'Roll out the networking & collaboration platform. Turn one-time work into long-term relationships.',
-    status: 'planned',
+    status: 'next',
   },
   {
     phase: 'Phase 5',
