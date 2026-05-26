@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
 import Nav from './components/Nav.jsx';
 import Hero from './components/Hero.jsx';
+import ProductSummary from './components/ProductSummary.jsx';
 import About from './components/About.jsx';
 import Ecosystem from './components/Ecosystem.jsx';
 import Products from './components/Products.jsx';
@@ -34,6 +35,7 @@ export default function App() {
       <Nav />
       <main className="relative z-10">
         <Hero />
+        <ProductSummary />
         <About />
         <Ecosystem />
         <Products />
