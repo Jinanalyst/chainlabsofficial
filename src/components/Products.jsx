@@ -32,7 +32,8 @@ const products = [
       'Long-term partnerships',
       'AI-assisted matching',
     ],
-    live: false,
+    href: 'https://chainwork.chainbrief.kr',
+    live: true,
   },
   {
     icon: CreditCard,
@@ -45,7 +46,8 @@ const products = [
       'Platform fee management',
       'Transparent receipts',
     ],
-    live: false,
+    href: 'https://chainwork.chainbrief.kr/#/pay',
+    live: true,
   },
   {
     icon: Users,
