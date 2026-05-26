@@ -7,6 +7,7 @@ import Ecosystem from './components/Ecosystem.jsx';
 import Loop from './components/Loop.jsx';
 import Products from './components/Products.jsx';
 import Why from './components/Why.jsx';
+import IsIsNot from './components/IsIsNot.jsx';
 import BusinessModel from './components/BusinessModel.jsx';
 import Roadmap from './components/Roadmap.jsx';
 import FinalCTA from './components/FinalCTA.jsx';
@@ -42,6 +43,7 @@ export default function App() {
         <Loop />
         <Products />
         <Why />
+        <IsIsNot />
         <BusinessModel />
         <Roadmap />
         <FinalCTA />
