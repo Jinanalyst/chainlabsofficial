@@ -11,16 +11,19 @@ export default function Hero() {
             An integrated platform company
           </span>
 
-          <h1 className="mt-7 font-display text-[44px] leading-[1.05] font-bold sm:text-6xl lg:text-7xl">
-            Connecting <span className="grad-text">Information</span>,<br />
-            <span className="grad-text">Work</span>, and{' '}
-            <span className="grad-text">Value</span>.
+          <h1 className="mt-7 font-display text-[40px] leading-[1.06] font-bold sm:text-6xl lg:text-[68px]">
+            ChainLabs connects{' '}
+            <span className="grad-text">information</span>,{' '}
+            <span className="grad-text">work</span>,{' '}
+            <span className="grad-text">relationships</span>, and{' '}
+            <span className="grad-text">payments</span>.
           </h1>
 
           <p className="mt-6 max-w-2xl text-base text-slate-400 sm:text-lg">
-            ChainLabs is an integrated platform company that connects
-            information, work, relationships, and payments into one practical
-            business ecosystem.
+            ChainLabs builds integrated platforms that help people discover
+            reliable information, find business opportunities, build trusted
+            relationships, and move payments faster — all in one connected
+            ecosystem.
           </p>
 
           <div className="mt-8 flex flex-wrap gap-3">
